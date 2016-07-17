@@ -1,0 +1,1205 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1500px) {
+	header .top-section .logo {
+	  padding: 40px 120px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 40px;
+	  left: 1150px;
+	}
+
+	.find .find-properties {
+	  padding: 45px 50px 45px 90px;
+	}
+
+	.find .find-buyers {
+	  padding: 45px 90px 45px 50px;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1300px) {
+	header .top-section .logo {
+	  padding: 40px 110px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 40px;
+	  left: 1150px;
+	}
+
+	.find .find-properties {
+	  padding: 45px 50px 45px 90px;
+	}
+
+	.find .find-buyers {
+	  padding: 45px 90px 45px 50px;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	header .top-section .logo {
+	  padding: 40px 60px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 40px;
+	  left: 1050px;
+	}
+
+	.find .find-properties {
+	  padding: 45px 50px 45px 90px;
+	}
+
+	.find .find-buyers {
+	  padding: 45px 90px 45px 50px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	header .top-section .logo {
+	  padding: 40px 40px;
+	  margin-bottom: -30px;
+	}
+
+	header .top-section .menu ul {
+	  margin-bottom: 30px;
+	  margin-top: -10px;
+	  margin-left: 180px;
+	  text-align: center;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 40px;
+	  left: 840px;
+	}
+
+	.tabs-container {
+	  max-width: 992px;
+	  padding-left: 25px;
+	}
+
+	.tabs-container .tabs .tab p {
+	  font-size: 35px;
+	  margin-right: 50px;
+	}
+
+	.tabs-container .tab-content img {
+	  margin: 25px 50px 70px 30px;
+	  max-width: 150px;
+	}
+
+	.tabs-container .tab-content .descr {
+	  margin-right: 30px;
+	}
+
+	.find .find-properties {
+	  padding: 0 30px 30px 30px;
+	}
+
+	.find .find-properties img {
+	  margin: 10px 125px;
+	  width: 45%;
+	  float: none;
+	}
+
+	.find .find-properties .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 140px;
+	}
+
+	.find .find-buyers {
+	  padding: 0 30px 30px 30px;
+	}
+
+	.find .find-buyers img {
+	  margin: 10px 135px;
+	  width: 41.5%;
+	  float: none;
+	}
+
+	.find .find-buyers .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 140px;
+	}
+
+	.find .header {
+	  text-align: center;
+	}
+
+	.featured-projects p {
+	  font-size: 15px;
+	  max-width: 500px;
+	}
+
+	.featured-projects button {
+	  margin-top: 20px;
+	  float: right;
+	  width: 180px;
+	  height: 45px;
+	  font-size: 15px;
+	}
+
+	.featured-projects .projects .proj-item {
+	  margin-right: 10px;
+	  margin-bottom: -20px;
+	  margin-left: 100px;
+	  position: relative;
+	  z-index: 3; 
+	}
+
+	.be-part .reviews .reviews-item {
+	  max-width: 300px;
+	  margin-right: 120px;
+	}
+
+	.be-part .reviews .reviews-item .cloud-triangle {
+	  bottom: 15px;
+	  left: 40px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	header {
+	  min-height: 800px;
+	}
+
+	header .top-section .logo {
+	  padding: 35px 70px;
+	}
+
+	header .top-section .menu ul {
+	  margin-bottom: 30px;
+	  margin-top: -10px;
+	  margin-left: 60px;
+	  text-align: center;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 40px;
+	  left: 600px;
+	}
+
+	header .top-section .menu .button-wrap button {
+	  width: 120px;
+	  height: 40px;
+	  border-radius: 15px;
+	  font-size: 20px;
+	}
+
+	.tabs-container {
+	  max-width: 768px;
+	  padding-left: 20px;
+	}
+
+	.tabs-container .tabs .tab .num {
+	  font-size: 25px;
+	  padding: 4px 17px;
+	  margin-right: 5px;
+	}
+
+	.tabs-container .tabs .tab p {
+	  font-size: 30px;
+	  margin-right: 25px;
+	}
+
+	.tabs-container .tab-content img {
+	  margin: 25px 25px 70px 25px;
+	  max-width: 150px;
+	}
+
+	.tabs-container .tab-content .header {
+	  font-size: 20px;
+	  margin-bottom: 20px;
+	}
+
+	.tabs-container .tab-content .descr {
+	  font-size: 15px;
+	  margin-right: 30px;
+	}
+
+	.find .find-properties {
+	  padding: 0 30px 30px 30px;
+	}
+
+	.find .find-properties img {
+	  margin: 10px 65px;
+	  width: 60%;
+	  float: none;
+	}
+
+	.find .find-properties .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 80px;
+	}
+
+	.find .find-buyers {
+	  padding: 0 30px 30px 30px;
+	}
+
+	.find .find-buyers img {
+	  margin: 10px 80px;
+	  width: 55.5%;
+	  float: none;
+	}
+
+	.find .find-buyers .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 80px;
+	}
+
+	.find .header {
+	  font-size: 25px;
+	  margin-bottom: 15px;
+	  text-align: center;
+	}
+
+	.find .descr {
+	  font-size: 15px;
+	  margin-bottom: 25px;
+	}
+
+	.featured-projects p {
+	  font-size: 15px;
+	  max-width: 500px;
+	}
+
+	.featured-projects button {
+	  margin-top: 20px;
+	  float: right;
+	  width: 180px;
+	  height: 45px;
+	  font-size: 15px;
+	}
+
+	.featured-projects .projects .proj-item {
+	  margin-right: 40px;
+	  margin-bottom: -20px;
+	  margin-left: 15px;
+	  position: relative;
+	  z-index: 3; 
+	}
+
+	.be-part .reviews .reviews-item {
+	  max-width: 300px;
+	  margin-right: 30px;
+	}
+
+	.be-part .reviews .reviews-item .cloud-triangle {
+	  bottom: 15px;
+	  left: 40px;
+	}
+}
+
+@media only screen and (max-width : 600px) {
+	header {
+	  min-height: 800px;
+	}
+
+	header .top-section .logo {
+	  padding: 30px 60px;
+	}
+
+	header .top-section .logo img{
+	  width: 90%;
+	}
+
+	header .top-section .menu ul {
+	  margin-bottom: 30px;
+	  margin-top: 0px;
+	  text-align: center;
+	}
+
+	header .top-section .menu ul li {
+	  font-size: 15px;
+	  margin-right: 10px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 30px;
+	  left: 450px;
+	}
+
+	header .top-section .menu .button-wrap button {
+	  width: 100px;
+	  height: 35px;
+	  border-radius: 15px;
+	  font-size: 17px;
+	}
+
+	header .header {
+	  margin-top: 100px;
+	  margin-bottom: 100px;
+	}
+
+	header .header h1{
+	  font-size: 50px;
+	}
+
+	header .header h3 {
+	  font-size: 35px;
+	  margin-top: 50px;
+	}
+
+	header .button-wrap button {
+	  width: 250px;
+	  height: 80px;
+	  border-radius: 15px;
+	  font-size: 20px;
+	}
+
+	.tabs-container {
+	  max-width: 600px;
+	  padding-left: 15px;
+	}
+
+	.tabs-container .tabs .tab {
+	  margin-bottom: 30px;
+	}
+
+	.tabs-container .tabs .tab .num {
+	  font-size: 20px;
+	  padding: 4px 15px;
+	  margin-right: 3px;
+	}
+
+	.tabs-container .tabs .tab p {
+	  font-size: 25px;
+	  margin-right: 20px;
+	}
+
+	.tabs-container .tab-content img {
+	  margin: 25px 25px 70px 25px;
+	  max-width: 100px;
+	}
+
+	.tabs-container .tab-content .header {
+	  font-size: 18px;
+	  margin-bottom: 10px;
+	}
+
+	.tabs-container .tab-content .descr {
+	  font-size: 15px;
+	  margin-right: 25px;
+	}
+
+	.find {
+	  margin-top: -30px;
+	}
+
+	.find .find-properties {
+	  padding: 0 20px 20px 20px;
+	}
+
+	.find .find-properties img {
+	  margin: 10px 60px;
+	  width: 60%;
+	  float: none;
+	}
+
+	.find .find-properties .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 50px;
+	}
+
+	.find .find-buyers {
+	  padding: 0 20px 20px 20px;
+	}
+
+	.find .find-buyers img {
+	  margin: 10px 70px;
+	  width: 55.5%;
+	  float: none;
+	}
+
+	.find .find-buyers .button-wrapper button {
+	  width: 150px;
+	  height: 40px;
+	  font-size: 15px;
+	  margin-left: 50px;
+	}
+
+	.find .header {
+	  font-size: 25px;
+	  margin-bottom: 15px;
+	  text-align: center;
+	}
+
+	.find .descr {
+	  font-size: 15px;
+	  margin-bottom: 15px;
+	}
+
+	.featured-projects {
+	  margin-top: -50px;
+	}
+
+	.featured-projects p {
+	  font-size: 15px;
+	  max-width: 400px;
+	}
+
+	.featured-projects button {
+	  margin-top: 20px;
+	  float: right;
+	  width: 150px;
+	  height: 40px;
+	  font-size: 14px;
+	}
+
+	.featured-projects .projects .proj-item {
+	  margin-left: 130px;
+	  position: relative;
+	  z-index: 3; 
+	}
+
+	.be-part {
+	  min-height: 800px;
+	}
+
+	.be-part .reviews .reviews-item {
+	  display: block;
+	  max-width: 400px;
+	  margin-left: 80px;
+	  margin-right: 0;
+	  margin-bottom: 20px;
+	  clear: both;
+	}
+
+	.be-part .reviews .reviews-item .cloud {
+	  padding: 5px 25px;
+	}
+
+	.be-part .reviews .reviews-item .cloud .header {
+	  font-size: 18px;
+	  padding: 0;
+	}
+
+	.be-part .reviews .reviews-item .cloud p {
+	  font-size: 13px;
+	  margin-bottom: 10px;
+	}
+
+	.be-part .reviews .reviews-item .cloud-triangle {
+	  bottom: 15px;
+	  left: 80px;
+	}
+
+	.be-part .reviews .reviews-item .photo {
+	  right: 65px;
+	  top: -5px;
+	}
+
+	.be-part .reviews .reviews-item .name {
+	  right: 40px;
+	  top: -3px;
+	  font-size: 15px;
+	}
+
+	footer {
+	  font-size: 15px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	header {
+	  min-height: 600px;
+	}
+
+	header .top-section .logo {
+	  padding: 20px 40px;
+	}
+
+	header .top-section .logo img{
+	  width: 80%;
+	}
+
+	header .top-section .menu ul {
+	  margin-bottom: 20px;
+	  margin-top: -25px;
+	  margin-left: -25px;
+	  text-align: center;
+	}
+
+	header .top-section .menu ul li {
+	  font-size: 13px;
+	  margin-right: 10px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 20px;
+	  left: 350px;
+	}
+
+	header .top-section .menu .button-wrap button {
+	  width: 100px;
+	  height: 35px;
+	  border-radius: 15px;
+	  font-size: 17px;
+	}
+
+	header .header {
+	  margin-top: 70px;
+	  margin-bottom: 40px;
+	}
+
+	header .header h1{
+	  font-size: 40px;
+	}
+
+	header .header h3 {
+	  font-size: 28px;
+	  margin-top: 15px;
+	}
+
+	header .button-wrap button {
+	  width: 200px;
+	  height: 70px;
+	  border-radius: 15px;
+	  font-size: 18px;
+	}
+
+	.our-work {
+	  padding: 50px 0 50px 0;
+	}
+
+	.our-work .header img {
+	  margin-bottom: 40px;
+	}
+
+	.our-work .header h2 {
+	  font-size: 30px;
+	  line-height: 38px;
+	  letter-spacing: 1px;
+	  margin-bottom: 25px;
+	}
+
+	.our-work .description p {
+	  font-size: 17px;
+	  margin-bottom: 30px;
+	}
+
+	.tabs-container {
+	  max-width: 480px;
+	  padding-left: 10px;
+	}
+
+	.tabs-container .tabs .tab {
+	  margin-bottom: 20px;
+	}
+
+	.tabs-container .tabs .tab .num {
+	  font-size: 17px;
+	  padding: 2px 10px;
+	  margin-right: 3px;
+	}
+
+	.tabs-container .tabs .tab p {
+	  font-size: 20px;
+	  margin-right: 20px;
+	}
+
+	.tabs-container .tab-content img {
+	  margin: 25px 25px 70px 25px;
+	  max-width: 70px;
+	}
+
+	.tabs-container .tab-content .header {
+	  font-size: 16px;
+	  margin-bottom: 10px;
+	}
+
+	.tabs-container .tab-content .descr {
+	  font-size: 13px;
+	  margin-right: 25px;
+	}
+
+	.find {
+	  margin-top: -60px;
+	}
+
+	.find .find-properties {
+	  padding: 0 20px 20px 20px;
+	}
+
+	.find .find-properties img {
+	  margin: 10px 50px;
+	  width: 50%;
+	  float: none;
+	}
+
+	.find .find-properties .button-wrapper button {
+	  width: 120px;
+	  height: 30px;
+	  font-size: 10px;
+	  margin-left: 40px;
+	}
+
+	.find .find-buyers {
+	  padding: 0 20px 20px 20px;
+	}
+
+	.find .find-buyers img {
+	  margin: 10px 55px;
+	  width: 46%;
+	  float: none;
+	}
+
+	.find .find-buyers .button-wrapper button {
+	  width: 120px;
+	  height: 30px;
+	  font-size: 10px;
+	  margin-left: 40px;
+	}
+
+	.find .header {
+	  font-size: 20px;
+	  margin-bottom: 15px;
+	  text-align: center;
+	}
+
+	.find .descr {
+	  font-size: 13px;
+	  margin-bottom: 15px;
+	}
+
+	.featured-projects {
+	  margin-top: -90px;
+	}
+
+	.featured-projects h2 {
+	  font-size: 30px;
+	  letter-spacing: 1px;
+	  margin-bottom: 5px;
+	}
+
+	.featured-projects p {
+	  font-size: 12px;
+	  max-width: 280px;
+	}
+
+	.featured-projects button {
+	  margin-top: 20px;
+	  float: right;
+	  width: 150px;
+	  height: 40px;
+	  font-size: 14px;
+	}
+
+	.featured-projects .projects .proj-item {
+	  margin-left: 70px;
+	  margin-top: 30px;
+	  border-radius: 15px;
+	  position: relative;
+	  z-index: 3; 
+	}
+
+	.featured-projects .projects .proj-item .image .corner {
+	  bottom: 35px;
+	  right: 50px;
+	  font-size: 16px;
+	  line-height: 125px;
+	}
+
+	.featured-projects .projects .proj-item .image img {
+	  max-width: 298px;
+	}
+
+	.featured-projects .projects .proj-item .image .info {
+	  bottom: 140px;
+	  left: 140px;
+	  font-size: 16px;
+	  line-height: 15px;
+	}
+
+	.featured-projects .projects .proj-item .details p {
+	  left: 130px;
+	  font-size: 15px;
+	  bottom: 0px;
+	}
+
+	.featured-projects .projects .proj-item .details .triangle {
+	  left: 135px;
+	  top: 2px;
+	}
+
+	.be-part {
+	  min-height: 600px;
+	  padding-top: 20px;
+	  padding-bottom: 25px;	  
+	}
+
+	.be-part h2 {
+	  font-size: 35px;
+	  line-height: 45px;
+	  margin-top: 10px;
+	  margin-bottom: 40px;
+	}
+
+	.be-part p {
+	  font-size: 15px;
+	  margin-bottom: 100px;
+	}
+
+	.be-part .reviews {
+	  margin-top: 40px;
+	}
+
+	.be-part .reviews .reviews-item {
+	  display: block;
+	  max-width: 400px;
+	  margin-left: 20px;
+	  margin-right: 0;
+	  margin-bottom: 20px;
+	  clear: both;
+	}
+
+	.be-part .reviews .reviews-item .cloud {
+	  padding: 5px 25px;
+	}
+
+	.be-part .reviews .reviews-item .cloud .header {
+	  font-size: 18px;
+	  padding: 0;
+	}
+
+	.be-part .reviews .reviews-item .cloud p {
+	  font-size: 13px;
+	  margin-bottom: 10px;
+	}
+
+	.be-part .reviews .reviews-item .cloud-triangle {
+	  bottom: 15px;
+	  left: 80px;
+	}
+
+	.be-part .reviews .reviews-item .photo {
+	  right: 65px;
+	  top: -5px;
+	}
+
+	.be-part .reviews .reviews-item .name {
+	  right: 40px;
+	  top: -3px;
+	  font-size: 15px;
+	}
+
+	footer {
+	  font-size: 12px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	header {
+	  min-height: 480px;
+	  padding-top: 20px;
+	  padding-bottom: 30px;
+	}
+
+	header .top-section {
+	  min-height: 90px;
+	}
+
+	header .top-section .logo {
+	  padding: 20px 20px;
+	}
+
+	header .top-section .logo img{
+	  width: 70%;
+	}
+
+	header .top-section .menu ul {
+	  margin-bottom: 20px;
+	  margin-top: -20px;
+	  margin-left: -25px;
+	  text-align: center;
+	}
+
+	header .top-section .menu ul li {
+	  font-size: 12px;
+	  margin-right: 10px;
+	}
+
+	header .top-section .menu .button-wrap {
+	  margin-left: 0;
+	  position: absolute;
+	  top: 20px;
+	  left: 220px;
+	}
+
+	header .top-section .menu .button-wrap button {
+	  width: 80px;
+	  height: 30px;
+	  border-radius: 15px;
+	  font-size: 15px
+	}
+
+	header .header {
+	  margin-top: 50px;
+	  margin-bottom: 20px;
+	}
+
+	header .header h1{
+	  font-size: 35px;
+	}
+
+	header .header h3 {
+	  font-size: 25px;
+	  margin-top: 10px;
+	}
+
+	header .button-wrap button {
+	  width: 150px;
+	  height: 50px;
+	  border-radius: 12px;
+	  font-size: 15px;
+	}
+
+	.our-work {
+	  padding: 50px 0 50px 0;
+	  max-height: 480px;
+	  overflow: hidden;
+	}
+
+	.our-work .header img {
+	  margin-bottom: 20px;
+	}
+
+	.our-work .header h2 {
+	  font-size: 25px;
+	  line-height: 35px;
+	  letter-spacing: 1px;
+	  margin-bottom: 10px;
+	}
+
+	.our-work .description p {
+	  font-size: 15px;
+	  margin-bottom: 20px;
+	}
+
+	.tabs-container {
+	  max-width: 320px;
+	}
+
+	.tabs-container .tabs .tab {
+	  margin-bottom: 30px;
+	}
+
+	.tabs-container .tabs .tab .num {
+	  font-size: 12px;
+	  padding: 0px 6px;
+	  margin-right: 3px;
+	}
+
+	.tabs-container .tabs .tab p {
+	  font-size: 14px;
+	  margin-right: 7px;
+	}
+
+	.tabs-container .tab-content img {
+	  margin: 20px 20px 100px 20px;
+	  max-width: 50px;
+	}
+
+	.tabs-container .tab-content .header {
+	  font-size: 15px;
+	  margin-bottom: 10px;
+	}
+
+	.tabs-container .tab-content .descr {
+	  font-size: 12px;
+	}
+
+	.find {
+	  margin-top: -80px;
+	}
+
+	.find .find-properties {
+	  padding: 10px;
+	  width: 50%;
+	}
+
+	.find .find-properties img {
+	  margin: 10px 30px;
+	  width: 50%;
+	  float: none;
+	}
+
+	.find .find-properties .button-wrapper button {
+	  width: 120px;
+	  height: 30px;
+	  font-size: 10px;
+	}
+
+	.find .find-buyers {
+	  padding: 10px;
+	  width: 50%;
+	}
+
+	.find .find-buyers img {
+	  margin: 10px 30px;
+	  width: 46%;
+	  float: none;
+	}
+
+	.find .find-buyers .button-wrapper {
+	  display: block;
+	}
+
+	.find .find-buyers .button-wrapper button {
+	  width: 120px;
+	  height: 30px;
+	  font-size: 10px;
+	}
+
+	.find .header {
+	  font-size: 19px;
+	  margin-bottom: 15px;
+	  text-align: center;
+	}
+
+	.find .descr {
+	  font-size: 12px;
+	  margin-bottom: 15px;
+	}
+
+	.featured-projects {
+	  margin-top: -90px;
+	}
+
+	.featured-projects h2 {
+	  font-size: 25px;
+	  letter-spacing: 1px;
+	  margin-bottom: 5px;
+	}
+
+	.featured-projects p {
+	  font-size: 11px;
+	}
+
+	.featured-projects button {
+	  margin-left: 70px;
+	  float: none;
+	  width: 150px;
+	  height: 40px;
+	  font-size: 14px;
+	}
+
+	.featured-projects .projects .proj-item {
+	  width: 290px;
+	  max-height: 455px;
+	  margin-right: 0px;
+	  margin-top: 30px;
+	  border-radius: 15px;
+	  position: relative;
+	  z-index: 3; 
+	}
+
+	.featured-projects .projects .proj-item .image .corner {
+	  bottom: 45px;
+	  right: 60px;
+	  font-size: 15px;
+	  line-height: 135px;
+	}
+
+	.featured-projects .projects .proj-item .image img {
+	  max-width: 288px;
+	}
+
+	.featured-projects .projects .proj-item .image .info {
+	  bottom: 135px;
+	  left: 135px;
+	  font-size: 16px;
+	  line-height: 15px;
+	}
+
+	.featured-projects .projects .proj-item .header {
+	  bottom: 145px;
+	  font-size: 16px;
+	  padding: 15px;
+	}
+
+	.featured-projects .projects .proj-item .descr-info {
+	  font-size: 11px;
+	  padding: 15px;
+	}
+
+	.featured-projects .projects .proj-item .proj-info .progressbar {
+	  bottom: 205px;
+	  left: 20px;
+	  margin-top: 10px;
+	}
+
+	.featured-projects .projects .proj-item .proj-info .percent {
+	  bottom: 205px;
+	  padding: 15px;
+	}
+
+	.featured-projects .projects .proj-item .proj-info .days {
+	  bottom: 205px;
+	  padding: 15px;
+	}
+
+	.featured-projects .projects .proj-item .hr {
+	  bottom: 205px;
+	}
+
+	.featured-projects .projects .proj-item .details {
+	  bottom: 205px;
+	}
+
+	.featured-projects .projects .proj-item .details p {
+	  left: 130px;
+	  font-size: 15px;
+	  bottom: 10px;
+	}
+
+	.featured-projects .projects .proj-item .details .triangle {
+	  left: 135px;
+	  top: -8px;
+	}
+
+	.be-part {
+	  min-height: 480px;
+	  padding-top: 0;
+	  padding-bottom: 20px;	  
+	}
+
+	.be-part h2 {
+	  font-size: 30px;
+	  line-height: 40px;
+	  margin-top: 0px;
+	  margin-bottom: 20px;
+	}
+
+	.be-part p {
+	  font-size: 13px;
+	  margin-bottom: 90px;
+	}
+
+	.be-part .reviews {
+	  margin-top: 30px;
+	}
+
+	.be-part .reviews .reviews-item {
+	  display: block;
+	  max-width: 400px;
+	  margin-right: 0px;
+	  margin-bottom: 20px;
+	  clear: both;
+	}
+
+	.be-part .reviews .reviews-item .cloud {
+	  display: block;
+	  border: 0;
+	  border-radius: 10px;
+	  background-color: white;
+	  padding: 5px 25px;
+	}
+
+	.be-part .reviews .reviews-item .cloud .header {
+	  font-size: 17px;
+	  padding: 0;
+	}
+
+	.be-part .reviews .reviews-item .cloud p {
+	  font-size: 12px;
+	  margin-bottom: 10px;
+	}
+
+	.be-part .reviews .reviews-item .cloud-triangle {
+	  bottom: 15px;
+	  left: 80px;
+	}
+
+	.be-part .reviews .reviews-item .photo {
+	  right: 0px;
+	  top: -5px;
+	}
+
+	.be-part .reviews .reviews-item .photo img {
+	  max-width: 55px;
+	}
+
+	.be-part .reviews .reviews-item .name {
+	  right: -9px;
+	  top: -3px;
+	  font-size: 14px;
+	}
+
+	footer {
+	  font-size: 11px;
+	}
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+ /*my media*/
+
+@media only screen and (max-width : 790px) {
+
+}
+
+ /*
+ @media (min-height: 720px) and (min-width : 1400px) {
+ 	
+}
+*/
